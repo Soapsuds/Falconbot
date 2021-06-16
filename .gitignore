@@ -1,0 +1,7 @@
+# Ignore logs
+*.csv
+# Ignore cython cache
+__pycache__
+*.pyc
+# Ignore my notes
+notes.txt
