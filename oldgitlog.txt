@@ -1,0 +1,98 @@
+commit 2dfa5858342c75c9a00f6a4e612d6dd24c952538
+Author: Kristian <soapsudsxx@protonmail.com>
+Date:   Wed Jun 16 13:24:39 2021 -0600
+
+    last commit in as a project, starting new project with just falconbot
+
+commit fa216da270a4f456175090f41cee19b7f2413499
+Author: Kristian <soapsudsxx@protonmail.com>
+Date:   Tue Jun 15 18:31:06 2021 -0600
+
+    Initial commit to github
+
+commit 369e5d35ee06f295d9f07cdf030fb4a4973fc6f1
+Author: Kristian <soapsudsxx@protonmail.com>
+Date:   Sat Jun 12 14:28:05 2021 -0600
+
+    Pretty well working version of air attack and juggle.
+    Added a stop and go here chain
+    fixed some bugs with gentleman
+
+commit 6b9563d6cc6425a9af4ece075aeed0fcacd994e9
+Author: Kristian <soapsudsxx@protonmail.com>
+Date:   Thu Jun 10 17:27:04 2021 -0600
+
+    About to totally rewrite juggle
+
+commit c024d33f30d30102998b672a6804379920a87b1d
+Author: Kristian <soapsudsxx@protonmail.com>
+Date:   Fri May 14 12:54:27 2021 -0600
+
+    Modified a few more chains, almost to the point where
+    I can start writing strategies and tactics
+
+commit bec983cffb012d68a95732848658a0cfd0a37b6f
+Author: Kristian <soapsudsxx@protonmail.com>
+Date:   Wed May 12 21:27:00 2021 -0600
+
+    Semi working version of recover. Very dumb implemenation of Falcondive
+
+commit c4d129726822962d89c5c65ce7f6f826d2ab131a
+Author: Kristian <soapsudsxx@protonmail.com>
+Date:   Wed May 12 19:47:59 2021 -0600
+
+    Working version of Shffl, just a little rough.
+    Also modified dashdance to use falcon dash info
+
+commit 93b4572f636ba81464719e969fa3d24da8478d2b
+Author: Kristian <soapsudsxx@protonmail.com>
+Date:   Tue May 11 22:59:36 2021 -0600
+
+    Modified ledgestall to haxdash and ffg ledge
+
+commit 95565429285841810da4f2320a314843315c72bf
+Author: Kristian <soapsudsxx@protonmail.com>
+Date:   Sun May 2 00:28:34 2021 -0600
+
+    Modified ledge dash and grabedge to work with Falcon
+
+commit 6580108a51fb0e9270d518951d78c35c4e86feee
+Author: Kristian <soapsudsxx@protonmail.com>
+Date:   Fri Apr 30 18:20:36 2021 -0600
+
+    Fixed up Gentleman and removed print statements.
+    Deleted a bunch of files that should have been ignored
+
+commit a27b7e2de191bbdadac0a627f4672b23c1014024
+Author: Kristian <soapsudsxx@protonmail.com>
+Date:   Fri Apr 30 17:54:36 2021 -0600
+
+    Working version of gentleman, but still with a bunch of
+    print statements
+
+commit a9b085463462ab67b2261d3bfab20b8f53262590
+Author: Kristian <soapsudsxx@protonmail.com>
+Date:   Fri Apr 30 00:10:32 2021 -0600
+
+    Wrote the gentleman chain and removed some fox actions. Rearranged the
+    folders again
+
+commit 91659ae464f2475fa889efa1226d5e7b986697e6
+Author: Kristian <soapsudsxx@protonmail.com>
+Date:   Thu Apr 29 02:37:04 2021 -0600
+
+    Okay, I think I am going to fork smashbot.
+    wish me luck
+
+commit 1cad3ec18efd731e6f9798c71e638ab79f151cdd
+Author: Kristian <soapsudsxx@protonmail.com>
+Date:   Thu Apr 29 02:03:09 2021 -0600
+
+    Finished the trial bot. upsmash will run to center stage, wait for you
+    to crouch, then run up and upsmash!
+
+commit 855a0d51ca1679772aecf9f07cb555c2a56e5215
+Author: Kristian <soapsudsxx@protonmail.com>
+Date:   Fri Apr 23 17:36:12 2021 -0600
+
+    Initial commit
