@@ -1,5 +1,9 @@
 # FalconBot
-###### The AI that I forked from smashbot 
+###### The AI that I forked from smashbot.
+
+##### Falconbot plays Falcon in Super Smash Brother's Melee for the Nintendo Game Cube. He may or may not beat you.
+
+#### Video Demo (CS50):  https://youtu.be/xvpkZfp1-As
 
 ### FAQ
 
@@ -17,3 +21,5 @@
 
 4. **Can I actually play against it?**
     Yes, but it's not programmed to throw out any moves ever. Unless you attack it all it does is dash dance on your current position. 
+    He also only plays vs Marth on FD
+
